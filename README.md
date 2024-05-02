@@ -1,57 +1,71 @@
-## Oi👋, eu sou Jailton Júnior ✌️
+<div id="user-content-toc" align="center">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-### :man_technologist: Sou um estudante de Ciência da Computação, fascinado por tecnologia, desde pequeno sonho em entrar na área para fazer grandes coisas, participar de projetos magníficos, que mudem significantemente a vida do ser humano, desde comodidade automotiva, residencial e exploração espacial.:rocket:
+<p>
+  Hi 👋, I'm Jailton Júnior!.
 
-### Pretendo no futuro me especializar em I.A. (Inteligencia Artificial).:robot::rocket:
+  - 🌱 I'm currently studying backend software development, but i have a little knowledge of frontend as well, but i'm focused on Backend development.
 
+  - 🔭 I am looking for my first job opportunity.
+</p>
 
-## :technologist: Tecnologias e Ferramentas que possuo certo conhecimento:
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
-<a href="https://www.java.com/pt-BR/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-<a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
-<a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/></a>
-<a href="https://www.microsoft.com/pt-br/microsoft-365/excel"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
+<p>
+  👨‍💻 More about me
 
+  - 💬 I'm 25 years old, currently living in Brazil. I have intermediate knowledge in English and have experience with SQL, Python, Java, C#, Java Spring Boot, NodeJS, JavaScript, TypeScript, ReactJS, AngularJS.
 
-## :technologist: Tecnologias e Ferramentas que pretendo aprender:
-<a href="https://pt.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-<a href="https://numpy.org/"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
-<a href="https://www.tensorflow.org/?hl=pt-br"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
-<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
-<a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
-<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+  - ⚡ I enjoy reading, watching movies and playing games! I believe that my personal interests contribute to a more refined perception of things and problem-solving. \o/
+</p>
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/djahjr_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailton-junior/)
 
-## :zap: Meu Progresso no Github:
-<img src="https://github-readme-stats.vercel.app/api?username=Djaaah"/> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Djaaah"/> 
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=jailtonjuniordev&show_icons=true&theme=gotham)
 
+## Portfolio
+- [NodeTS - API Restful](https://github.com/jailtonjuniordev/API-REST)
+- [Java Spring Boot - Gerenciamento de Concessionária](https://github.com/jailtonjuniordev/Carseller-API/tree/main)
+- [Python - Gerenciador de Faturas](https://github.com/jailtonjuniordev/Gerenciador-de-faturas)
 
-## 📱Minhas redes sociais 📱
-<a href="https://www.linkedin.com/in/jailton-junior-48a6b1158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/djaaah_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><p>
-<a href="https://api.whatsapp.com/send?phone=5581997512774&text=Ol%C3%A1%2C%20peguei%20seu%20n%C3%BAmero%20no%20*github*%2C%20voc%C3%AA%20est%C3%A1%20dispon%C3%ADvel%20para%20uma%20conversa%20%3F"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="mailto:jailtonjr99@hotmail.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+## 🔥 Skills
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+	  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+	  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+	  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    
+  </div>
+  
+  <div style="flex-basis: 48%;">
+    <h3>Databases</h3>
+    <img align="center" alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img align="center" alt="OracleSQL" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+    
+<br/>
 
-
-<!--
-**Djaaah/Djaaah** is ag ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-	
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>IDE's</h3>
+    <img align="center" alt="InteliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+    <img align="center" alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
+    <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  
+  </div>
+    
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+	  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+	  <img align="center" alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
+    <img align="center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+	  <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+	  <img align="center" alt="SequelizeJS" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">  
+  </div>

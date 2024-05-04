@@ -26,6 +26,7 @@
 
 ## Portfolio
 - [NodeTS - API Restful](https://github.com/jailtonjuniordev/API-REST)
+- [Java Spring Boot - API Restful com Autenticação JWT](https://github.com/jailtonjuniordev/API-RESTFUL-SPRING-BOOT/tree/develop)
 - [Java Spring Boot - Gerenciamento de Concessionária](https://github.com/jailtonjuniordev/Carseller-API/tree/main)
 - [Python - Gerenciador de Faturas](https://github.com/jailtonjuniordev/Gerenciador-de-faturas)
 

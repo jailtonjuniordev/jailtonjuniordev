@@ -6,15 +6,14 @@
 <p>
   Hi 👋, I'm Jailton Júnior!.
 
-  - 🌱 I'm currently studying backend software development, but i have a little knowledge of frontend as well, but i'm focused on Backend development.
-
-  - 🔭 I am looking for my first job opportunity.
+  - 🌱 I'm a fullstack software development, but i'm focused on Backend development.
+  - Currently working as Fullstack Developer VueJS/NodeJS on Foz Sustentável
 </p>
 
 <p>
   👨‍💻 More about me
 
-  - 💬 I'm 25 years old, currently living in Brazil. I have intermediate knowledge in English and have experience with SQL, Python, Java, C#, Java Spring Boot, NodeJS, JavaScript, TypeScript, ReactJS, AngularJS.
+  - 💬 I'm 25 years old, currently living in Brazil. I have intermediate knowledge in English and have experience with SQL, Python, Java, C#, Java Spring Boot, NodeJS, JavaScript, TypeScript, ReactJS, AngularJS, VueJS.
 
   - ⚡ I enjoy reading, watching movies and playing games! I believe that my personal interests contribute to a more refined perception of things and problem-solving. \o/
 </p>

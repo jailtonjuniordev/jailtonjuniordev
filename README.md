@@ -6,7 +6,7 @@
 <p>
   Hi 👋, I'm Jailton Júnior!.
 
-  - 🌱 I'm a fullstack software development, but i'm focused on Backend development.
+  - 🌱 I'm a fullstack software developer, but i'm focused on Backend development.
   - Currently working as Fullstack Developer VueJS/NodeJS on Foz Sustentável
 </p>
 
